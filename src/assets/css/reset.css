@@ -1,0 +1,22 @@
+body, div, span, header, footer, nav, section, aside, article, ul, dl, dt, dd, li, a, p, h1, h2, h3, h4,h5, h6,em, i, b, textarea, button, input, select, figure, figcaption {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  font-style: normal;
+  text-decoration: none;
+border: none;
+
+
+font-size: 14px;
+  font-weight: normal;
+font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
+box-sizing: border-box;
+  -webkit-tap-highlight-color:transparent;
+  -webkit-font-smoothing: antialiased;
+  /* &:hover{
+      outline: none;
+  } */
+}
+/* ————————————————
+版权声明：本文为CSDN博主「itmonkey-cn」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/qq_42690547/article/details/88855307 */
